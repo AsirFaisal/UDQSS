@@ -4,11 +4,15 @@ based on various quality, usability and compliance aspects.
 1. Data Quality (30%)
 Completeness: Are there missing values? Datasets with fewer null values would score
 higher.
+
 Accuracy: Is the data accurate and reliable? Check if it’s aligned with trusted sources.
+
 Consistency: Are data values consistent across records? This includes standardized
 formats, naming conventions, and data types.
+
 Timeliness: Is the data up-to-date? Time-sensitive data should be recent or have regular
 updates.
+
 Scoring Example:
 Completeness (out of 10): 9 (almost no null values)
 Accuracy (out of 10): 8 (very accurate, validated with external sources)
